@@ -12,4 +12,11 @@
 # IOT1026-Assignment-Template
 Description here. 
 
+[Assignment Instructions](docs/instructions.md)
+[How to start coding](docs/how-to-use.md)
+
+
+
+
+
 
