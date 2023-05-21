@@ -1,20 +1,24 @@
 # Assignment # – Name
 
 ## Value (%)
+
 This assignment is worth 10% of your course grade.
 
 ## Task
+
 Describe task
 
 ## How to Complete This Assessment
+
 Describe steps to complete the assignment
 
 ## How to Submit Your Assessment
-Submit a link to the GitHub repo containing your code and <extra steps if necessary>
 
-# Grading Rubric
+Submit a link to the GitHub repo containing your code **and extra steps if necessary**
 
-## Results (70%)
+## Grading Rubric
+
+### Results (70%)
 
 | Points | Description                                                                                   |
 |:------:|-----------------------------------------------------------------------------------------------|
@@ -25,7 +29,7 @@ Submit a link to the GitHub repo containing your code and <extra steps if necess
 |   1    | Poor: No tests or minimal tests; none of the tests pass.                                     |
 |   0    | Code does not build in the CI workflow.                                                       |
 
-## Class/Method/Variable Naming (10%)
+### Class/Method/Variable Naming (10%)
 
 | Points | Description                                                                                   |
 |:------:|-----------------------------------------------------------------------------------------------|
@@ -34,7 +38,7 @@ Submit a link to the GitHub repo containing your code and <extra steps if necess
 |  0.5   | Needs Improvement: Inconsistent naming conventions; some unclear or confusing names.          |
 |   0    | Poor: No clear naming conventions; many unclear or confusing names.                           |
 
-## Comments/Documentation (10%)
+### Comments/Documentation (10%)
 
 | Points | Description                                                                                   |
 |:------:|-----------------------------------------------------------------------------------------------|
@@ -42,11 +46,10 @@ Submit a link to the GitHub repo containing your code and <extra steps if necess
 |  0.5   | Needs Improvement: Some comments and documentation, but lacking clarity or detail in certain areas. |
 |   0    | Poor: No comments or documentation; difficult to understand the purpose and functionality of the code. |
 
-## Formatting (10%)
+### Formatting (10%)
 
 | Points | Description                                                                                   |
 |:------:|-----------------------------------------------------------------------------------------------|
 |   1    | No formatting is required during the formatting workflow.                                     |
 |  0.25  | Minimal formatting is required during the formatting workflow.                                |
 |   0    | Extensive formatting is required during the formatting workflow.                              |
-
